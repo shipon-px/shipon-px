@@ -3,7 +3,7 @@
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-     SHIPON-143 
+     SHIPON-PX 
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
  
@@ -18,11 +18,11 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHIPON-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="SHIPON-143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHIPON-PX&label=Profile%20views&color=eb4d3d&style=flat-square" alt="SHIPON-PX" /> </p>
 </i></b></h3>
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/SHIPON-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=SHIPON-143&theme=monokai"></a>
+<a href="https://github.com/SHIPON-PX"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=SHIPON-PX&theme=monokai"></a>
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -47,7 +47,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- GITHUB : [SHIPON-143](https://github.com/SHIPON-143)
+- GITHUB : [SHIPON-PX](https://github.com/SHIPON-PX)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -75,12 +75,12 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/SHIPON-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=SHIPON-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="SHIPON-143 GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/SHIPON-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIPON-143layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/SHIPON-PX/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=SHIPON-PX&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="SHIPON-PX GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/SHIPON-PX/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIPON-PXlayout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=SHIPON-143&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Shipon GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=SHIPON-PX&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Shipon GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
